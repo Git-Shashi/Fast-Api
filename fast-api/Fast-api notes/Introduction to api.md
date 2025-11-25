@@ -1,7 +1,7 @@
 
 Apis are mechanism that enable two softwares components of an application like frontend and backend to communicate with each other using a defined set of rules,protocols,data-formats.
 
-It helps in the decoupling of the monolithic code by providing the api routes so from the any frontend like web, android , iphone can communnicate easily, 
+It helps in the decoupling of the monolithic code by providing the api routes so that , from the any frontend like web, android , iphone can communnicate easily, 
 
 With the help of it , you only write once the backend and different frontend.
 
@@ -1116,3 +1116,18 @@ Just tell me!
 ![[Pasted image 20251120211401.png]]
 
 
+
+
+
+
+![[Pasted image 20251120225255.png]]
+
+
+Http status codes are the 3 digit number returned by the server to client to indicate the result of the client request to the server.
+
+
+![[Pasted image 20251120225946.png]]
+
+
+
+![[Pasted image 20251120234224.png]]

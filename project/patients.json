@@ -1,0 +1,37 @@
+{
+  "p001": {
+    "name": "Rahul Verma",
+    "age": 32,
+    "gender": "Male",
+    "condition": "Hypertension",
+    "admission_date": "2025-01-12"
+  },
+  "p002": {
+    "name": "Aditi Sharma",
+    "age": 27,
+    "gender": "Female",
+    "condition": "Asthma",
+    "admission_date": "2025-02-02"
+  },
+  "p003": {
+    "name": "Rohan Singh",
+    "age": 40,
+    "gender": "Male",
+    "condition": "Diabetes",
+    "admission_date": "2025-01-25"
+  },
+  "p004": {
+    "name": "Neha Patel",
+    "age": 35,
+    "gender": "Female",
+    "condition": "Thyroid Disorder",
+    "admission_date": "2025-02-10"
+  },
+  "p005": {
+    "name": "Arjun Mehta",
+    "age": 29,
+    "gender": "Male",
+    "condition": "Migraine",
+    "admission_date": "2025-02-14"
+  }
+}
